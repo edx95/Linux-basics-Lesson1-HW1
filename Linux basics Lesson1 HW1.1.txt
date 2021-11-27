@@ -1,0 +1,24 @@
+﻿student@Ubuntu-MySQL-VirtualBox:~$ whoami
+student
+student@Ubuntu-MySQL-VirtualBox:~$ uname
+Linux
+student@Ubuntu-MySQL-VirtualBox:~$ hostname
+Ubuntu-MySQL-VirtualBox
+student@Ubuntu-MySQL-VirtualBox:~$ uname-a
+uname-a: команда не найдена
+student@Ubuntu-MySQL-VirtualBox:~$ uname - a
+uname: лишний операнд «-»
+По команде «uname --help» можно получить дополнительную информацию.
+student@Ubuntu-MySQL-VirtualBox:~$ uname -a
+Linux Ubuntu-MySQL-VirtualBox 4.15.0-47-generic #50~16.04.1-Ubuntu SMP Fri Mar 15 16:06:21 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+student@Ubuntu-MySQL-VirtualBox:~$ ^C
+student@Ubuntu-MySQL-VirtualBox:~$ uname -help
+uname: неверный ключ — «h»
+По команде «uname --help» можно получить дополнительную информацию.
+student@Ubuntu-MySQL-VirtualBox:~$ uame --help
+Команда 'uame' не найдена, возможно вы имели в виду:
+ Команда 'lame' из пакета 'lame' (universe)
+ Команда 'mame' из пакета 'mame' (multiverse)
+ Команда 'uname' из пакета 'coreutils' (main)
+uame: команда не найдена
+student@Ubuntu-MySQL-VirtualBox:~$ 
